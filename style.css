@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=madimi+one&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    font-family: "madimi one", sans-serif;
+    margin:auto;
+    font-size: normal;
+    background-color: crimson;
+}
